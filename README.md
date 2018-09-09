@@ -12,5 +12,3 @@ Mark Six is a lottery betting organized by the Hong Kong Jockey Club, and it
 [Introduction of Mark Six](https://en.wikipedia.org/wiki/Mark_Six)
 [Circular Statement of Python 3](http://www.runoob.com/python3/python3-loop.html)
 [Python 3 list remove](http://www.runoob.com/python3/python3-att-list-remove.html)
-# Sample Output
-!
